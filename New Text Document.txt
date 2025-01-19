@@ -1,0 +1,12 @@
+Our Categorized Ecosystem:
+
+npm
+pypy/pypi
+maven
+newgate
+rubygem
+go
+packagist
+cran
+
+make a csv file : named as(group1_tweet_link.csv)
